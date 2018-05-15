@@ -6,7 +6,7 @@
 */
 
 a {
-	color: #245F5F;
+	color: plum;
 	text-decoration: none;
 }
 
@@ -19,15 +19,15 @@ blockquote {
 }
 
 body {
-	font-family: "Georgia";
-	color: #009097;
+	font-family: "Arial";
+	color: #336699;
 }
 
 
 h1, h2 {
 	font-weight: normal;
-	font-family: "Century Gothic";
-	margin: 3px;
+	font-family: "Impact";
+	margin: 5px;
 	padding: 0px;
 }
 

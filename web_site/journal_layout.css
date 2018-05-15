@@ -1,0 +1,64 @@
+*{
+	box-sizing: border-box;
+}
+
+h1{
+	display: inline;
+}
+
+body{
+	margin: 0;
+	padding: 10px;
+	background: url(images/background.png) no-repeat top left/cover;
+}
+
+#overall{
+	border: 10px solid white;
+	background: hotpink;
+	margin: 0 10%;
+	overflow: hidden;
+}
+
+.top_headings{
+	background: pink;
+	text-align: right;
+}
+
+.top_headings h1, h2{
+	display: inline;
+}
+
+.desc{
+	font-size: 14px;
+}
+
+.left_sidebar{
+	float: left;
+	width: 19%;
+}
+
+.right_sidebar{
+	float: right;
+	width: 80%;
+}
+
+.task{
+	border: 4px solid white ;
+	background: wheat;
+	padding: 5px;
+	margin: 10px 0 0 0;
+	overflow: hidden;
+}
+
+.date{
+	border-bottom: 2px dashed #A8F0F0;
+}
+
+img{
+	float: right;
+}
+
+.hover:hover{
+	display: inline;
+	background: yellow;
+}
